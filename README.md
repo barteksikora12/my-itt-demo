@@ -1,3 +1,3 @@
 # my-itt-demo
 
-![code space view)(./codespace.png)
+![code space view](./codespace.png)
